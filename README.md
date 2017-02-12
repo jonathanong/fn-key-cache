@@ -44,6 +44,8 @@ export default class Thing extends Component {
 ```
 
 Without this utility, new functions would be created on every `render()`.
+This is better than doing something like `onClick={e => this.setState({ tab: 1 })}`,
+but not better than just creating a new component.
 
 [npm-image]: https://img.shields.io/npm/v/fn-key-cache.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/fn-key-cache
