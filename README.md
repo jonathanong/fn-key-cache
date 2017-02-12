@@ -36,7 +36,7 @@ export default class Thing extends Component {
       <div className='container'>
         <button type='button' className={tab === 1 ? 'active' : ''} onClick={this.onClickButton(1)}>1</button>
         <button type='button' className={tab === 2 ? 'active' : ''} onClick={this.onClickButton(2)}>2</button>
-        <button type='button' className={tab === 3 ? 'active' : ''}onClick={this.onClickButton(3)}>3</button>
+        <button type='button' className={tab === 3 ? 'active' : ''} onClick={this.onClickButton(3)}>3</button>
       </div>
     )
   }
