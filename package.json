@@ -12,8 +12,8 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jest": "^18.1.0",
-    "standard": "^8.6.0"
+    "jest": "^22.3.0",
+    "standard": "^11.0.0"
   },
   "files": [
     "lib"
