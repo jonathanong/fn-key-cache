@@ -1,6 +1,8 @@
 
 # fn-key-cache
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jonathanong/fn-key-cache.svg)](https://greenkeeper.io/)
+
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
 [![Test coverage][codecov-image]][codecov-url]
