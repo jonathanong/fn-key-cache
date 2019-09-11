@@ -13,7 +13,7 @@
   "dependencies": {},
   "devDependencies": {
     "jest": "^22.3.0",
-    "standard": "^11.0.0"
+    "standard": "^14.2.0"
   },
   "files": [
     "lib"
